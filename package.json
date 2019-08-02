@@ -53,15 +53,15 @@
   "dependencies": {
     "async": "0.9.0",
     "base58-native": "0.1.2",
-    "bignum": "*",
+    "bignum": "0.9.0",
     "bitcore": "git://github.com/bitpay/bitcore.git#aa41c70cff2583d810664c073a324376c39c8b36",
     "bufferput": "git://github.com/bitpay/node-bufferput.git",
-    "buffertools": "*",
+    "buffertools": "2.1.2",
     "commander": "^2.3.0",
     "connect-ratelimit": "git://github.com/dharmafly/connect-ratelimit.git#0550eff209c54f35078f46445000797fa942ab97",
     "cron": "^1.0.4",
     "express": "~3.11.0",
-    "glob": "*",
+    "glob": "4.3.5",
     "leveldown": "~0.10.0",
     "levelup": "~0.19.0",
     "microtime": "^0.6.0",
@@ -72,7 +72,7 @@
     "socket.io": "1.0.6",
     "socket.io-client": "1.0.6",
     "soop": "=0.1.5",
-    "winston": "*",
+    "winston": "0.8.0",
     "xmlhttprequest": "~1.6.0"
   },
   "devDependencies": {
